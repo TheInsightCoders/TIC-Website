@@ -2,6 +2,7 @@
 include "includes/header.php";
 ?>
 
+
   <!-- ======= Main Section ======= -->
   <section id="hero">
     <div class="hero-container">
