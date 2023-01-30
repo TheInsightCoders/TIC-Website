@@ -1,7 +1,9 @@
-<?php
-include "../includes/header.php";
-?>
-
+  
+  <!-- ======= Header Section ======= -->
+  <?php
+    include "../includes/header.php";
+  ?>
+  <!----------------------------------->
   <main id="main">	
     <!-- ======= Introduction Section ======= -->
     <section class="portfolio-details">
@@ -57,7 +59,7 @@ include "../includes/header.php";
 
         <div class="row">
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement24.html">
+            <a href="CodevitaStatement24.php">
 			<div class="count-box">
 			  <span data-toggle="counter-up" style="color: green;">1</span>
               <span style="font-size:30px; color: red;">Constellation <br> Problem</span>
@@ -67,7 +69,7 @@ include "../includes/header.php";
           </div>
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-              <a href="CodevitaStatement25.html">
+              <a href="CodevitaStatement25.php">
             <div class="count-box">
 			  <span data-toggle="counter-up" style="color: orange;">2</span>
               <span style="font-size:30px;">Minimize <br> The Sum</span>
@@ -77,7 +79,7 @@ include "../includes/header.php";
           </div>
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement26.html">
+            <a href="CodevitaStatement26.php">
 			<div class="count-box">
 			  <span data-toggle="counter-up" style="color: green;">3</span>
               <span style="font-size:30px; color: red;">Prime<br> Time Again</span>
@@ -87,7 +89,7 @@ include "../includes/header.php";
           </div>
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-              <a href="CodevitaStatement27.html">
+              <a href="CodevitaStatement27.php">
             <div class="count-box">
 			  <span data-toggle="counter-up" style="color: orange;">4</span>
               <span style="font-size:30px;">Maximum<br> Prize</span>
@@ -111,7 +113,7 @@ include "../includes/header.php";
 		
         <div class="row">
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement01.html">
+            <a href="CodevitaStatement01.php">
 			<div class="count-box">
 			  <span data-toggle="counter-up" style="color: green;">1</span>
               <span style="font-size:30px; color: red;">Lexi <br> Strings</span>
@@ -121,7 +123,7 @@ include "../includes/header.php";
           </div>
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-              <a href="CodevitaStatement02.html">
+              <a href="CodevitaStatement02.php">
             <div class="count-box">
 			  <span data-toggle="counter-up" style="color: orange;">2</span>
               <span style="font-size:30px;">Philaland <br> Coins</span>
@@ -131,7 +133,7 @@ include "../includes/header.php";
           </div>
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement03.html">
+            <a href="CodevitaStatement03.php">
               <div class="count-box">
 			  <span data-toggle="counter-up" style="color: green;">3</span>
               <span style="font-size:30px;  color: red;">Consecutive Prime Sum</span>
@@ -142,7 +144,7 @@ include "../includes/header.php";
 
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement04.html">
+            <a href="CodevitaStatement04.php">
               <div class="count-box">
 			  <span data-toggle="counter-up" style="color: orange">4</span>
               <span style="font-size:30px;">Prime Fibbonacci</span>
@@ -154,7 +156,7 @@ include "../includes/header.php";
 		
 		<div class="row">
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement05.html">
+            <a href="CodevitaStatement05.php">
               <div class="count-box">
 			  <span data-toggle="counter-up" style="color: orange">5</span>
               <span style="font-size:30px;">Kth Largest Factor</span>
@@ -164,7 +166,7 @@ include "../includes/header.php";
           </div>
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-             <a href="CodevitaStatement06.html">
+             <a href="CodevitaStatement06.php">
               <div class="count-box">
 			  <span data-toggle="counter-up" style="color: green;">6</span>
               <span style="font-size:30px; color: red;">Collecting Candies</span>
@@ -174,7 +176,7 @@ include "../includes/header.php";
           </div>
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement07.html">
+            <a href="CodevitaStatement07.php">
               <div class="count-box">
 			  <span data-toggle="counter-up" style="color: orange">7</span>
               <span style="font-size:30px;">Coin Distribution</span>
@@ -184,7 +186,7 @@ include "../includes/header.php";
           </div>
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement08.html">
+            <a href="CodevitaStatement08.php">
               <div class="count-box">
 			  <span data-toggle="counter-up" style="color: green;">8</span>
               <span style="font-size:30px; color: red;">Bank<br> Compare</span>
@@ -194,7 +196,7 @@ include "../includes/header.php";
           </div>
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement09.html">
+            <a href="CodevitaStatement09.php">
               <div class="count-box">
 			  <span data-toggle="counter-up" style="color: green;">9</span>
               <span style="font-size:30px; color: red;">Counting Rock Samples</span>
@@ -204,7 +206,7 @@ include "../includes/header.php";
           </div>
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement10.html">
+            <a href="CodevitaStatement10.php">
               <div class="count-box">
 			  <span data-toggle="counter-up" style="color: orange">10</span>
               <span style="font-size:30px;">Common<br> Steps</span>
@@ -214,7 +216,7 @@ include "../includes/header.php";
           </div>
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement11.html">
+            <a href="CodevitaStatement11.php">
               <div class="count-box">
 			  <span data-toggle="counter-up" style="color: green;">11</span>
               <span style="font-size:30px; color: red;">Distribute<br> Books</span>
@@ -224,7 +226,7 @@ include "../includes/header.php";
           </div>
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement12.html">
+            <a href="CodevitaStatement12.php">
               <div class="count-box">
 			  <span data-toggle="counter-up" style="color: orange">12</span>
               <span style="font-size:30px;">Similar<br> Character</span>
@@ -234,7 +236,7 @@ include "../includes/header.php";
           </div>
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement13.html">
+            <a href="CodevitaStatement13.php">
               <div class="count-box">
 			  <span data-toggle="counter-up" style="color: orange">13</span>
               <span style="font-size:30px;">Minimum<br> Combinations</span>
@@ -244,7 +246,7 @@ include "../includes/header.php";
           </div>
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement14.html">
+            <a href="CodevitaStatement14.php">
               <div class="count-box">
 			  <span data-toggle="counter-up" style="color: green;">14</span>
               <span style="font-size:30px; color: red;">Grooving<br> Monkeys</span>
@@ -254,7 +256,7 @@ include "../includes/header.php";
           </div>
 
            <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement15.html">
+            <a href="CodevitaStatement15.php">
               <div class="count-box">
 			  <span data-toggle="counter-up" style="color: orange">15</span>
               <span style="font-size:30px;">Marathon<br> Winner</span>
@@ -264,7 +266,7 @@ include "../includes/header.php";
           </div>
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement16.html">
+            <a href="CodevitaStatement16.php">
               <div class="count-box">
 			  <span data-toggle="counter-up" style="color: green;">16</span>
               <span style="font-size:30px; color: red;">Collision<br> Course</span>
@@ -274,7 +276,7 @@ include "../includes/header.php";
           </div>
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement17.html">
+            <a href="CodevitaStatement17.php">
               <div class="count-box">
 			  <span data-toggle="counter-up" style="color: green;">17</span>
               <span style="font-size:30px; color: red;">Dole Out Cadbury</span>
@@ -284,7 +286,7 @@ include "../includes/header.php";
           </div>
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement18.html">
+            <a href="CodevitaStatement18.php">
               <div class="count-box">
 			  <span data-toggle="counter-up" style="color: orange">18</span>
               <span style="font-size:30px;">Divine <br>Divisors</span>
@@ -294,7 +296,7 @@ include "../includes/header.php";
           </div>
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement19.html">
+            <a href="CodevitaStatement19.php">
               <div class="count-box">
 			  <span data-toggle="counter-up" style="color: green;">19</span>
               <span style="font-size:30px; color: red;">Chakravyuha <br> Problem</span>
@@ -304,7 +306,7 @@ include "../includes/header.php";
           </div>
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement20.html">
+            <a href="CodevitaStatement20.php">
               <div class="count-box">
 			  <span data-toggle="counter-up" style="color: orange">20</span>
               <span style="font-size:30px;">Christmas <br>Tree</span>
@@ -314,7 +316,7 @@ include "../includes/header.php";
           </div>
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement21.html">
+            <a href="CodevitaStatement21.php">
               <div class="count-box">
 			  <span data-toggle="counter-up" style="color: orange">21</span>
               <span style="font-size:30px;">Swayamvar <br>Problem</span>
@@ -324,7 +326,7 @@ include "../includes/header.php";
           </div>
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement22.html">
+            <a href="CodevitaStatement22.php">
               <div class="count-box">
 			  <span data-toggle="counter-up" style="color: green;">22</span>
               <span style="font-size:30px; color: red;">Digits <br> Pairs</span>
@@ -334,7 +336,7 @@ include "../includes/header.php";
           </div>
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
-            <a href="CodevitaStatement23.html">
+            <a href="CodevitaStatement23.php">
               <div class="count-box">
 			  <span data-toggle="counter-up" style="color: orange">23</span>
               <span style="font-size:30px;">Petrol <br>Pump</span>
@@ -457,76 +459,8 @@ include "../includes/header.php";
 
   </main><!-- End #main -->
 
-  <!-- ======= Footer ======= -->
-  <footer id="footer">
-    <div class="footer-top">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6 footer-info">
-            <h3>The Insight Coders</h3>
-            <p>
-              <br>
-              <strong style="color:orange;">Email:</strong> theinsightcoders@gmail.com<br>
-			  <strong style="color:orange;">Telegram:</strong> The Insight Coders<br>
-			  <strong style="color:orange;">Instagram:</strong> The Insight Coders<br>
-			  <strong style="color:orange;">Facebook:</strong> The Insight Coders<br>
-			  <strong style="color:orange;">Twitter:</strong> The Insight Coders<br>
-            </p>
-          </div>
-
-          <div class="col-lg-2 col-md-6 footer-links">
-            <h4 style="color:orange;">Useful Links</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right" style="color:orange;"></i> <a href="../Codevita/CodevitaIntroduction.html">Codevita</a></li>
-              <li><i class="bx bx-chevron-right" style="color:orange;"></i> <a href="../Infytq/InfytqIntroduction.html">Infytq</a></li>
-              <li><i class="bx bx-chevron-right" style="color:orange;"></i> <a href="../nqt/NqtIntroduction.html">NQT</a></li>
-              <li><i class="bx bx-chevron-right" style="color:orange;"></i> <a href="../patterns/PatternIntroduction.html">Patterns</a></li>
-              <li><i class="bx bx-chevron-right" style="color:orange;"></i> <a href="https://www.youtube.com/watch?v=5E_RAclcqRs&list=PLgjc0A1c-mohYQ8qmW_4GaX6_L8wpzOUJ" target="_blank">Logic Building</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-3 col-md-6 footer-links">
-            <h4 style="color:orange;">Study Material</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right" style="color:orange;"></i> <a href="../python/PythonIntroduction.html">Python</a></li>
-              <li><i class="bx bx-chevron-right" style="color:orange;"></i> <a href="../java/JavaIntroduction.html">Java</a></li>
-              <li><i class="bx bx-chevron-right" style="color:orange;"></i> <a href="https://www.youtube.com/watch?v=f_YnTvBlwTg&list=PLgjc0A1c-mogWcbcyDzq_qYWc-MmEIDFv" target="_blank">Data Structures</a></li>
-              <li><i class="bx bx-chevron-right" style="color:orange;"></i> <a href="https://www.youtube.com/watch?v=atQyiJQf3gk&list=PLgjc0A1c-mohs7cCIJLk9rB8qTkLb8n-j" target="_blank">DAA/ ADA</a></li>
-              <li><i class="bx bx-chevron-right" style="color:orange;"></i> <a href="https://www.youtube.com/watch?v=Usy7-IXSqV0&list=PLgjc0A1c-moh65eBz1Q7bYCVMbxJHU-Qk" target="_blank">Essential of Information Technology</a></li>
-              <li><i class="bx bx-chevron-right" style="color:orange;"></i> <a href="https://www.youtube.com/watch?v=bE_MYkWukwI&list=PLgjc0A1c-mogMbecoTJWWSRL450glE6aw" target="_blank">Searching & Sorting</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="container">
-      <div class="copyright">
-        &copy; Copyright <strong><span style="color: orange;"> The Insight Coders</span></strong>. All Rights Reserved
-      </div>
-    </div>
-  </footer>
-<!-- End Footer -->
-
-  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
-
-  <!-- JS Files -->
-  <script src="../assets/js/jquery.min.js"></script>
-  <script src="../assets/js/bootstrap.bundle.min.js"></script>
-  <script src="../assets/js/jquery.easing.min.js"></script>
-  <script src="../assets/js/validate.js"></script>
-  <script src="../assets/js/jquery.sticky.js"></script>
-  <script src="../assets/js/venobox.min.js"></script>
-  <script src="../assets/js/jquery.waypoints.min.js"></script>
-  <script src="../assets/js/counterup.min.js"></script>
-  <script src="../assets/js/owl.carousel.min.js"></script>
-  <script src="../assets/js/isotope.pkgd.min.js"></script>
-  <script src="../assets/js/aos.js"></script>
-
-  <!-- Template Main JS File -->
-  <script src="../assets/js/main.js"></script>
-
-</body>
-
-</html>
+  <!-- ======= Footer Section ======= -->
+  <?php
+    include "../includes/footer.php";
+  ?>
+  <!----------------------------------->
