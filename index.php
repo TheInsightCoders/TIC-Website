@@ -1,5 +1,5 @@
 <?php
-includes "includes/header.php";
+include "includes/header.php";
 ?>
 
   <!-- ======= Main Section ======= -->
