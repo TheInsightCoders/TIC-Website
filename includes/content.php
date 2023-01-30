@@ -1,29 +1,29 @@
 <section class="about-lists">
       <div class="container">
-        <font size="5px"><marquee direction="left" scrollamount="4"><b><a href="./Codevita/CodevitaIntroduction.html">TCS Codevita 2020 Zone 1 Questions and Solutions</a></b></marquee></font>
+        <font size="5px"><marquee direction="left" scrollamount="4"><b><a href="./Codevita/CodevitaIntroduction.php">TCS Codevita 2020 Zone 1 Questions and Solutions</a></b></marquee></font>
 	    <div class="section-title">
 		  <h1 style="color:orange;"><b>Content</b></h1> 
         </div>  
         <div class="row no-gutters">
 
           <div class="col-lg-2 col-md-1 content-item" data-aos="fade-up">
-            <a href="./Codevita/CodevitaIntroduction.html"><h4>Codevita</h4></a>
+            <a href="./Codevita/CodevitaIntroduction.php"><h4>Codevita</h4></a>
           </div>
 
           <div class="col-lg-2 col-md-1 content-item" data-aos="fade-up" data-aos-delay="100">
-            <a href="./infytq/InfytqIntroduction.html"><h4>Infytq</h4></a>
+            <a href="./infytq/InfytqIntroduction.php"><h4>Infytq</h4></a>
           </div>
 		  
 		  <div class="col-lg-2 col-md-1 content-item" data-aos="fade-up" data-aos-delay="200">
-            <a href="./python/PythonIntroduction.html"><h4>Python</h4></a>
+            <a href="./python/PythonIntroduction.php"><h4>Python</h4></a>
           </div>
 
           <div class="col-lg-2 col-md-1 content-item" data-aos="fade-up" data-aos-delay="200">
-            <a href="./patterns/PatternIntroduction.html"><h4>Patterns</h4></a>
+            <a href="./patterns/PatternIntroduction.php"><h4>Patterns</h4></a>
           </div>
 
           <div class="col-lg-4 col-md-1 content-item" data-aos="fade-up" data-aos-delay="300">
-            <a href="./dataStructure/DataStructureIntroduction.html" ><h4>Data Structures</h4></a>
+            <a href="./dataStructure/DataStructureIntroduction.php" ><h4>Data Structures</h4></a>
           </div>
 
           <div class="col-lg-2 col-md-1 content-item" data-aos="fade-up" data-aos-delay="400">
@@ -35,15 +35,15 @@
           </div>
 		  
 		  <div class="col-lg-2 col-md-1 content-item" data-aos="fade-up" data-aos-delay="500">
-            <a href="./java/JavaIntroduction.html"><h4>Java</h4></a>
+            <a href="./java/JavaIntroduction.php"><h4>Java</h4></a>
           </div>
 		  
 		  <div class="col-lg-2 col-md-1 content-item" data-aos="fade-up" data-aos-delay="500">
-            <a href="./nqt/NqtIntroduction.html"><h4>TCS NQT</h4></a>
+            <a href="./nqt/NqtIntroduction.php"><h4>TCS NQT</h4></a>
           </div>
 		  
 		  <div class="col-lg-4 col-md-1 content-item" data-aos="fade-up" data-aos-delay="500">
-            <a href="./techkibaat/TechKiBaatHome.html"><h4>Tech Ki Baat</h4></a>
+            <a href="./techkibaat/TechKiBaatHome.php"><h4>Tech Ki Baat</h4></a>
           </div>
 
         </div>

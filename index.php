@@ -1,7 +1,7 @@
   
   <!-- ======= Header Section ======= -->
   <?php
-    include "includes/header.php";
+    include "includes/headerIndex.php";
   ?>
   <!----------------------------------->
 
@@ -50,9 +50,9 @@
 
 
   <!-- ======= Our Team Section ======= -->
-  <!-- <?php
-    include "includes/team.php";
-  ?>   -->
+   <?php
+    //include "includes/team.php";
+  ?>   
   <!----------------------------------->
 
 
