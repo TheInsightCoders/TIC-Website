@@ -59,35 +59,35 @@
 
         <div class="logo float-left">
           <h1 class="text-light">
-              <a href="./index.php">
+              <a href="../index.php">
                   <span style="color: white; font-family:Times New Roman; margin-left:65px;">The Insight Coders</span></a></h1>
         </div>
 
         <nav class="nav-menu float-right d-none d-lg-block" >
           <ul>
-            <li><a href="./index.php" style="color: white; font-size: 15px;">Home</a></li>
-            <li><a href="./Codevita/CodevitaIntroduction.php" style="color: white; font-size: 15px">Codevita</a></li>
-            <li><a href="./Infytq/InfytqIntroduction.php" style="color: white; font-size: 15px">Infytq</a></li>
-            <li><a href="./nqt/NqtIntroduction.php" style="color: white; font-size: 15px">NQT</a></li>
+            <li><a href="../index.php" style="color: white; font-size: 15px;">Home</a></li>
+            <li><a href="../Codevita/CodevitaIntroduction.php" style="color: white; font-size: 15px">Codevita</a></li>
+            <li><a href="../Infytq/InfytqIntroduction.php" style="color: white; font-size: 15px">Infytq</a></li>
+            <li><a href="../nqt/NqtIntroduction.php" style="color: white; font-size: 15px">NQT</a></li>
             <li class="drop-down"><a style="color:white; font-size: 15px;">Placement Prepration</a>
                <ul>
-                  <li><a href="./interview/TechnicalInterviewIntroduction.php">Technical Interview Questions</a></li>
-                  <li><a href="./interview/HRInterviewIntroduction.php">HR Interview Questions</a></li>
-                  <li><a href="./Codevita/CodevitaIntroduction.php">TCS Codevita</a></li>
-                  <li><a href="./nqt/NqtIntroduction.php">TCS NQT</a></li>
-                  <li><a href="./Infytq/InfytqIntroduction.php">Infosys Infytq</a></li>
-                  <li><a href="./hackwithinfy/HackWithInfyIntroduction.php">Infosys HackwithInfy</a></li>
+                  <li><a href="../interview/TechnicalInterviewIntroduction.php">Technical Interview Questions</a></li>
+                  <li><a href="../interview/HRInterviewIntroduction.php">HR Interview Questions</a></li>
+                  <li><a href="../Codevita/CodevitaIntroduction.php">TCS Codevita</a></li>
+                  <li><a href="../nqt/NqtIntroduction.php">TCS NQT</a></li>
+                  <li><a href="../Infytq/InfytqIntroduction.php">Infosys Infytq</a></li>
+                  <li><a href="../hackwithinfy/HackWithInfyIntroduction.php">Infosys HackwithInfy</a></li>
                </ul>
             </li>
             <li class="drop-down"><a style="color:white; font-size: 15px;">Study Material</a>
               <ul>
-                <li><a href="./python/PythonIntroduction.php">Python</a></li>
-                <li><a href="./java/JavaIntroduction.php">Java</a></li>
-                <li><a href="./dataStructure/DataStructureIntroduction.php">Data Structures</a></li>
-                <li><a href="./daa/DAAHome.php" target="_blank">DAA</a></li>
+                <li><a href="../python/PythonIntroduction.php">Python</a></li>
+                <li><a href="../java/JavaIntroduction.php">Java</a></li>
+                <li><a href="../dataStructure/DataStructureIntroduction.php">Data Structures</a></li>
+                <li><a href="../daa/DAAHome.php" target="_blank">DAA</a></li>
                 <li><a href="https://www.youtube.com/watch?v=Usy7-IXSqV0&list=PLgjc0A1c-moh65eBz1Q7bYCVMbxJHU-Qk" target="_blank">EIT</a></li>
                 <li><a href="https://www.youtube.com/watch?v=bE_MYkWukwI&list=PLgjc0A1c-mogMbecoTJWWSRL450glE6aw" target="_blank">Searching & Sorting</a></li>
-                <li><a href="./patterns/PatternIntroduction.php">Patterns</a></li>
+                <li><a href="../patterns/PatternIntroduction.php">Patterns</a></li>
               </ul>
             </li>
             <!--<li class="drop-down"><a style="color:white; font-size: 15px;">Algorithms</a>-->
@@ -103,10 +103,10 @@
             <!--</li>-->
             <li class="drop-down"><a style="color:white; font-size: 15px;">Hiring</a>
               <ul>
-                <li><a href="./Codevita/CodevitaIntroduction.php">TCS Codevita</a></li>
-                <li><a href="./nqt/NqtIntroduction.php">TCS NQT</a></li>
-                <li><a href="./Infytq/InfytqIntroduction.php">Infosys Infytq</a></li>
-                <li><a href="./hackwithinfy/HackWithInfyIntroduction.php">Infosys HackwithInfy</a></li>
+                <li><a href="../Codevita/CodevitaIntroduction.php">TCS Codevita</a></li>
+                <li><a href="../nqt/NqtIntroduction.php">TCS NQT</a></li>
+                <li><a href="../Infytq/InfytqIntroduction.php">Infosys Infytq</a></li>
+                <li><a href="../hackwithinfy/HackWithInfyIntroduction.php">Infosys HackwithInfy</a></li>
               </ul>
             </li>
             <!--<li><a href="#contact" style="color: white; font-size: 16px">Contact Us</a></li>-->

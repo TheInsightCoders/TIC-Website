@@ -68,7 +68,7 @@
 
   <!-- ======= Footer Section ======= -->
   <?php
-    include "includes/footer.php";
+    include "includes/footerIndex.php";
   ?>
   <!----------------------------------->
 
