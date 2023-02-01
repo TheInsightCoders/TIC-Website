@@ -57,7 +57,6 @@ include "../includes/header.php";
         <div class="portfolio-description">
 			<!-- Code Section -->
 			<section class="counts section-bg">
-
                       <ul class="nav nav-tabs">
                         <li class="active"><a data-toggle="tab" href="#python1">Python</a></li>
                         <li><a data-toggle="tab" href="#c1">C</a></li>
